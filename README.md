@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on a Learning Management System
   
 
-- 🌱 I’m currently learning web development using React JS and Laravel
+- 🌱 I’m currently learning web development using Laravel
   
 
 - ⚡ Fun fact: I use tabs over spaces  
