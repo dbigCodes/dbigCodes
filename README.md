@@ -97,6 +97,20 @@ I specialize in making the web usable for **everyone** — auditing, remediating
 ---
 
 
+
+## 📊 GitHub Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-animation-dark.svg" />
+  <img alt="dbigCodes's Contribution Animation" src="github-contribution-animation.svg" />
+</picture>
+
+</div>
+
+---
+
 <div align="center">
 
 ---
