@@ -15,7 +15,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jesrel-malaqui)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dbigcodes)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dbigoh)
-[![Profile Views](https://komarev.com/ghpvc/?username=dbigcodes&style=for-the-badge&color=302b63)](https://github.com/dbigcodes)
 
 </div>
 
@@ -26,7 +25,7 @@
 ```yaml
 name:       Jesrel Malaqui
 location:   Philippines 🇵🇭
-focus:      WCAG compliance, ARIA patterns, screen reader UX
+focus:      WCAG & ADA compliance, ARIA patterns, screen reader UX
 currently:  Remediating Shopify & WordPress projects for A11y
 building:   AI Tutor platform for inclusive e-learning
 fun_fact:   Tabs > Spaces. Always.
@@ -38,7 +37,7 @@ fun_fact:   Tabs > Spaces. Always.
 
 I specialize in making the web usable for **everyone** — auditing, remediating, and testing digital experiences against WCAG 2.1/2.2 standards. I bridge the gap between design and inclusive engineering through:
 
-- ♿ **Accessibility Audits** — WCAG 2.1 AA/AAA compliance reviews
+- ♿ **Accessibility Audits** — WCAG 2.2 AA/AAA compliance reviews
 - 🛠️ **Remediation** — Fixing ARIA patterns, focus management, color contrast, semantic HTML
 - 🔊 **Screen Reader Testing** — NVDA
 - 🤖 **AI Development** — RAG systems, LLM integrations, educational AI tools
