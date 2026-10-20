@@ -34,13 +34,14 @@ fun_fact:   Tabs > Spaces. Always.
 
 ## 🎯 What I Do
 
-I specialize in making the web usable for **everyone** — auditing, remediating, and testing digital experiences against WCAG 2.1/2.2 standards. I bridge the gap between design and inclusive engineering through:
+I focus on web accessibility, direct remediation, and clear guidance to make digital spaces genuinely usable for everyone. From auditing code to breaking fixes down into simple steps, I help teams build websites that are truly inclusive and compliant. 
 
-- ♿ **Accessibility Audits** — WCAG 2.2 AA/AAA compliance reviews
-- 🛠️ **Remediation** — Fixing ARIA patterns, focus management, color contrast, semantic HTML
-- 🔊 **Screen Reader Testing** — NVDA
-- 🤖 **AI Development** — RAG systems, LLM integrations, educational AI tools
+I bridge the gap between design and inclusive engineering through:
 
+- ♿ **Accessibility Audits** — Comprehensive WCAG compliance reviews and evaluations
+- 🛠️ **Direct Remediation** — Fixing ARIA patterns, keyboard navigation, focus management, and semantic HTML
+- 🔊 **Screen Reader Testing** — Ensuring seamless assistive tech experiences (NVDA)
+- 🤖 **AI Development** — Building RAG systems, LLM integrations, and educational AI tools
 ---
 
 ## 🧰 Tech Stack
