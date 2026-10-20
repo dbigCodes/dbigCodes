@@ -50,7 +50,7 @@ I bridge the gap between design and inclusive engineering through:
 <tr><td valign="top" width="25%">
 
 ### ♿ Accessibility
-![WCAG](https://img.shields.io/badge/WCAG_2.1-005A9C?style=flat-square&logo=w3c&logoColor=white)
+![WCAG 2.2](https://img.shields.io/badge/WCAG_2.2-005A9C?style=flat-square&logo=w3c&logoColor=white)
 ![ARIA](https://img.shields.io/badge/WAI--ARIA-005A9C?style=flat-square&logo=w3c&logoColor=white)
 ![NVDA](https://img.shields.io/badge/NVDA-4CAF50?style=flat-square&logoColor=white)
 ![axe](https://img.shields.io/badge/axe--core-663399?style=flat-square&logoColor=white)
